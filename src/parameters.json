@@ -2,6 +2,7 @@
     "DIRECTORIES":{
         "DATA_DIR": "../../Data",
         "TMP_DIR" : "../../tmp"
+<<<<<<< HEAD
     },
     "FILES" :{
         "PRICE_FILE": "prices.p",
@@ -11,4 +12,8 @@
     "DATABASES" :{
         "GAS_DB": "gas.db"
     }
+=======
+    }
+    
+>>>>>>> 5f0e508c69791c0653def191c033165cfe6b45b6
 }
